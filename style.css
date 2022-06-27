@@ -46,12 +46,12 @@ button {
   background-color: rgb(13, 86, 0);
   padding: 1rem;
   margin-right: 1rem;
-  color: var(--light);
   font-size: 1.25rem;
+  width: 90%;
 }
 
 #new-task-input::placeholder {
-  color: var(--grey);
+  color: grey;
 }
 
 #new-task-submit {
